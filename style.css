@@ -1,0 +1,13 @@
+body {background-color: #60495A;}
+
+h1 {color: #BFC3BA;}
+
+img{
+    position:absolute; 
+    
+    border-radius: 50%;
+    left: 600px;
+    width: 230px;
+}
+
+
