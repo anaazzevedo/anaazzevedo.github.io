@@ -1,13 +1,46 @@
 body {background-color: #60495A;}
 
-h1 {color: #BFC3BA;}
-
-img{
-    position:absolute; 
-    
-    border-radius: 50%;
-    left: 600px;
-    width: 230px;
+h1 {
+    color: #BFC3BA;
+    margin: 20px;
+    margin-left: 100px;
 }
+
+.article{
+    display: inline-block;
+    /* border: 2px solid black; */
+}
+
+#descricao{
+    display: inline-block;
+    border: 2px solid black;
+    width: 65%;
+    margin: 15px;
+    margin-top: 40px;
+    padding: 3%;
+}
+#minha-foto{
+    display: inline-block;
+    border: 5px solid black;
+    float: right;
+    
+}
+.sessao{
+    border: 2px solid black;
+    width: 50%;
+    margin-top: 30px;
+    margin: 1%;
+    padding: 1%;
+}
+.topico{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+#h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+
 
 
